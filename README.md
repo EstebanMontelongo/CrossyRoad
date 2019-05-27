@@ -9,6 +9,9 @@ Developed with Unreal Engine 4
 # What I Learned
 
 > How to use UnrealEngine Editor
+
 > How to create custom 3D objects for a game
+
 > How to import your 3D models into Unreal Engine
+
 > How to use Blueprints
